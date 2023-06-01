@@ -1,0 +1,28 @@
+#tooltip {
+  position: fixed; 
+  width: 120px;
+  border: 1px solid black;
+  border-radius: 5px;
+  text-align: center;
+  box-sizing: border-box;
+  background: #FFFFCC;
+  z-index: 10;
+  display: none;
+
+}
+
+img {
+  width: 300x;
+  height: auto;
+  position: relative;
+ 
+}
+
+.uitleg {
+  margin-top: 5rem;
+}
+
+.uitleg > h3,
+.uitleg > p {
+  margin: 0;
+}

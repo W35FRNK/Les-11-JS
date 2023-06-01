@@ -1,0 +1,17 @@
+#tooltip {
+  width: 120px;
+  border: 1px solid black;
+  border-radius: 5px;
+  text-align: center;
+  background-color: #FFFFCC;
+  box-sizing: border-box;
+  display: none;
+}
+
+img {
+  width: 150px;
+  position: relative;
+ 
+}
+
+
